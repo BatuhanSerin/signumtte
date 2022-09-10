@@ -1,5 +1,3 @@
-- Bilgisayarınıza nodeJS kurun
+- Type `npm install` in terminal to install dependencies.
 
-- Dosya dizini içinde terminal çalıştırıp `npm install` yazarak gerekli node modülleri kurun.
-
-- Modüller kurulduktan sonra `npm run start` yazarak projeyi çalıştırabilirsiniz.
+- Type `npm run start` to run the server.
